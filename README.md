@@ -1,0 +1,2 @@
+# effective-typescript
+Reading note
